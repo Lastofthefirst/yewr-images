@@ -41,3 +41,6 @@ No luck, here we failed with the following output
 14:30:46.268	/opt/build/bin/build: line 39: trunk: command not found
 14:30:46.270	Failed: build command exited with code: 127
 ```
+
+
+One question I have, I thought the point was that web assembly files could be super small, but here oour yew-app.wasm is 2.4mb? Why is it so  big, despite doing almost nothing ¯\_(ツ)_/¯?
