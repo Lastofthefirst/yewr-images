@@ -1,1 +1,0 @@
-/Users/idealmine/Desktop/projects/Rust/yew-app/target/wasm32-unknown-unknown/release/yew-app.wasm: /Users/idealmine/Desktop/projects/Rust/yew-app/src/app.rs /Users/idealmine/Desktop/projects/Rust/yew-app/src/main.rs
