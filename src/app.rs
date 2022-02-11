@@ -67,7 +67,7 @@ impl Component for DropImage {
             <p>{"Drag your images here"}</p>
             </div>
             <div id="images"></div>
-            <div>{self.images.iter().collect::<Hmtl>()}</div>
+            <div>{self.images.iter().collect::<Html>()}</div>
             </>
         }
     }

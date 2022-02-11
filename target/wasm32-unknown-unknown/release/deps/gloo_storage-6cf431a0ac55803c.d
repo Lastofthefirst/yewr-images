@@ -1,0 +1,10 @@
+/Users/idealmine/Desktop/projects/Rust/yew-app/target/wasm32-unknown-unknown/release/deps/gloo_storage-6cf431a0ac55803c.rmeta: /Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/lib.rs /Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/errors.rs /Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/local_storage.rs /Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/session_storage.rs
+
+/Users/idealmine/Desktop/projects/Rust/yew-app/target/wasm32-unknown-unknown/release/deps/libgloo_storage-6cf431a0ac55803c.rlib: /Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/lib.rs /Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/errors.rs /Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/local_storage.rs /Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/session_storage.rs
+
+/Users/idealmine/Desktop/projects/Rust/yew-app/target/wasm32-unknown-unknown/release/deps/gloo_storage-6cf431a0ac55803c.d: /Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/lib.rs /Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/errors.rs /Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/local_storage.rs /Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/session_storage.rs
+
+/Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/lib.rs:
+/Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/errors.rs:
+/Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/local_storage.rs:
+/Users/idealmine/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.0/src/session_storage.rs:
