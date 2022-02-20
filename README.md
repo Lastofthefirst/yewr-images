@@ -1,3 +1,6 @@
+Solution: Serve the build folder which is  /dist with `trunk`
+
+_______________________________________________
 Successfully serves locally.
 
 I tried to  deploy two ways on to cloudflare pages, without success.
@@ -44,3 +47,15 @@ No luck, here we failed with the following output
 
 
 One question I have, I thought the point was that web assembly files could be super small, but here oour yew-app.wasm is 2.4mb? Why is it so  big, despite doing almost nothing ¯\_(ツ)_/¯?
+
+Asked Question at https://users.rust-lang.org/t/how-to-serve-wasm-as-a-static-site-such-as-the-yew-framework/72066/2
+
+With fresh eyes I reviewed the trunk documentation and see I overlooked the solution there.
+
+    trunk build will produce the following HTML at dist/index.html , along with the compiled scss, WASM & the JS loader for the WASM:
+
+The collective files in the dist directory are a total of 247 KB which is more in line with my expectations.
+
+So on cloudflare pages I just directed to dist as my build folder and the page successfully serves at:
+
+https://yewr-images.pages.dev/
